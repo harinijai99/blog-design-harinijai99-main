@@ -5,3 +5,24 @@ html {
 	box-sizing: inherit;
 }
 
+body {
+    padding: 1rem;
+}
+
+body {
+	max-width: 600px;
+	margin-left:auto;
+	margin-right: auto;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+
+h3 {
+    line-height: 1;
+}
+.branding {
+    font-family: 'Pacifico', Helvetica, sans-serif;
+    font-size: 2rem;
+    color: purple;
+}
