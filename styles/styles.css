@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
+
 html {
     box-sizing:border-box;
 }
@@ -15,14 +19,16 @@ body {
 	margin-right: auto;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
-
-
-h3 {
-    line-height: 1;
-}
 .branding {
-    font-family: 'Pacifico', Helvetica, sans-serif;
+    font-family: 'Lobster', Helvetica, sans-serif;
     font-size: 2rem;
-    color: pink;
+    color: brown;
 }
+
+.Heading {
+    font-family: 'Cookie', Helvetica, sans-serif ;
+    font-size:2rem ;
+    color:lightcoral
+}
+
+
