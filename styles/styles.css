@@ -4,6 +4,8 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+
 html {
     box-sizing:border-box;
 }
@@ -19,17 +21,17 @@ body {
 	max-width: 600px;
 	margin-left:auto;
 	margin-right: auto;
-    background-color: #FCFFE7 ;
+    background-color: #F0EEED ;
 }
 
 .branding {
     font-family: 'Lobster', Helvetica, sans-serif;
     font-size: 2rem;
-    color: #EB455F;
+    color: #609EA2;
 }
 
 .Heading {
-    font-family: 'Cookie', Helvetica, sans-serif ;
+    font-family: 'Roboto Condensed', Helvetica, sans-serif ;
     font-size:2rem ;
     color:#C92C6D;
 }
@@ -37,13 +39,39 @@ body {
 .subheading {
     font-family: 'Roboto Condensed', Helvetica, sans-serif ;
     font-size:1.5rem ;
-    color:#2B3467;
+    color:#332C39;
 }
 
 p {
     font-family: 'Roboto Condensed', Helvetica, sans-serif ;
     font-size:1rem ;
-    color:#2B3467;
+    color:#332C39;
 }
 
+dl{
+    font-family: 'Roboto Condensed', Helvetica, sans-serif ;
+    font-size:1rem ;
+    color:#332C39;
+}
+
+.one{
+   font-weight:bold;
+   font-style:italic; 
+}
+
+.two{
+    font-weight:bold;
+    font-style:italic; 
+ }
+
+ .three{
+    font-weight:bolder;
+    font-style:italic; 
+ }
+
+ .quote{
+    font-family: 'Courgette', Helvetica, sans-serif ;
+    font-size:1rem ;
+    color:#2B3467;
+ }
 
