@@ -6,6 +6,8 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Warp&display=swap');
+
 html {
     box-sizing:border-box;
 }
@@ -18,14 +20,14 @@ body {
 }
 
 body {
-	max-width: 600px;
+	max-width: 700px;
 	margin-left:auto;
 	margin-right: auto;
     background-color: #F0EEED ;
 }
 
 .branding {
-    font-family: 'Lobster', Helvetica, sans-serif;
+    font-family: 'Tilt Warp', Helvetica, sans-serif;
     font-size: 2rem;
     color: #609EA2;
 }
@@ -46,6 +48,7 @@ p {
     font-family: 'Roboto Condensed', Helvetica, sans-serif ;
     font-size:1rem ;
     color:#332C39;
+    line-height: 1.35;
 }
 
 dl{
@@ -55,12 +58,12 @@ dl{
 }
 
 .one{
-   font-weight:bold;
+   font-weight:bolder;
    font-style:italic; 
 }
 
 .two{
-    font-weight:bold;
+    font-weight:bolder;
     font-style:italic; 
  }
 
