@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tapestry&display=swap');
 
 @import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
 
@@ -20,14 +20,15 @@ body {
 }
 
 body {
-	max-width: 700px;
+	max-width: 800px;
 	margin-left:auto;
 	margin-right: auto;
-    background-color: #F0EEED ;
+    background-image: url(https://img.glyphs.co/img?src=aHR0cHM6Ly9zMy5tZWRpYWxvb3QuY29tL3Jlc291cmNlcy9MaWdodC1QYXN0ZWwtQmx1cnJlZC1CYWNrZ3JvdW5kcy04MDB4NTE4LTEuanBn&q=90&enlarge=true&h=1036&w=1600);
+    background-size: cover;
 }
 
 .branding {
-    font-family: 'Tilt Warp', Helvetica, sans-serif;
+    font-family: 'Tapestry', Helvetica, sans-serif;
     font-size: 2rem;
     color: #609EA2;
 }
