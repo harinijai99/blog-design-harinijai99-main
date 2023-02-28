@@ -20,7 +20,7 @@ body {
 }
 
 body {
-	max-width: 800px;
+	max-width: 750px;
 	margin-left:auto;
 	margin-right: auto;
     background-image: url(https://img.glyphs.co/img?src=aHR0cHM6Ly9zMy5tZWRpYWxvb3QuY29tL3Jlc291cmNlcy9MaWdodC1QYXN0ZWwtQmx1cnJlZC1CYWNrZ3JvdW5kcy04MDB4NTE4LTEuanBn&q=90&enlarge=true&h=1036&w=1600);
@@ -28,9 +28,10 @@ body {
 }
 
 .branding {
-    font-family: 'Tapestry', Helvetica, sans-serif;
-    font-size: 2rem;
-    color: #609EA2;
+    font-family: 'Cookie', Helvetica, sans-serif;
+    font-size: 3rem;
+    color: #2B3467;
+    line-height: 1;
 }
 
 .Heading {
@@ -78,4 +79,6 @@ dl{
     font-size:1rem ;
     color:#2B3467;
  }
+
+ 
 
